@@ -22,7 +22,7 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="[https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg](https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg)" alt="powerbi" width="40" height="40"/> 
   </a> 
 </p>
 
