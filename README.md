@@ -2,11 +2,11 @@
 <h3 align="center">Junior Data Analyst | AI Fresh graduate.</h3>
 <!-- <p> <img align="center" src="https://media2.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=790b76111258b6289c7a74d2f16240a3165e53283b2bbcf7&rid=giphy.gif&ct=g" /></p> -->
 
-<p align="left"> <a href="https://twitter.com/hagarashraf91" target="blank"><img src="https://img.shields.io/twitter/follow/hagarashraf91?logo=twitter&style=for-the-badge" alt="hagarashraf91" /></a> </p>
+<!p align="left"> <a href="https://twitter.com/hagarashraf91" target="blank"><img src="https://img.shields.io/twitter/follow/hagarashraf91?logo=twitter&style=for-the-badge" alt="hagarashraf91" /></a> </p>
 
 - 📫 How to reach me **hagaraashraf1@gmail.com**
 
-<!-- <h3 align="left">Connect with me:</h3>
+<-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hagarashraf91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hagarashraf91" height="30" width="40" /></a>
 <a href="https://kaggle.com/hagarashraf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hagarashraf1" height="30" width="40" /></a>
