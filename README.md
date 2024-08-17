@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hagar Ashraf</h1>
-<h3 align="center">AI student.</h3>
+<h3 align="center">Junior Data Analyst | AI Fresh graduate.</h3>
 <!-- <p> <img align="center" src="https://media2.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=790b76111258b6289c7a74d2f16240a3165e53283b2bbcf7&rid=giphy.gif&ct=g" /></p> -->
 
 <p align="left"> <a href="https://twitter.com/hagarashraf91" target="blank"><img src="https://img.shields.io/twitter/follow/hagarashraf91?logo=twitter&style=for-the-badge" alt="hagarashraf91" /></a> </p>
 
-- 🌱 I’m currently learning **AI fields.**
-
-- 📫 How to reach me **agogo7027@gmail.com**
+- 📫 How to reach me **hagaraashraf1@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
